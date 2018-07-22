@@ -13,7 +13,9 @@ All you need to mess with this compiler is go compiler/interpreter(?)
 
 ## Cool things you can do
 -add more possible tokens
+
 -have the newly genereated code acutally execute
+
 -build a full on programming language 
 
 ## Authors
