@@ -25,8 +25,7 @@ All you need to mess with this compiler is go compiler/interpreter(?)
 
 ## License
 
-This project is licensed under the CC License. Essentially you can do whatever you want with this
-project so long as it is not used commercially.
-
+This project is licensed under the CC0 License. Essentially you can do whatever you want with this
+project.
 
 
